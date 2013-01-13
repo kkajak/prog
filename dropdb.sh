@@ -1,3 +1,3 @@
 #!/bin/bash
-#testing
+# moje Echo
 echo "Hello World"
