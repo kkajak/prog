@@ -1,2 +1,3 @@
 #!/bin/bash
-#Test for dropdb
+#Testi 2  for dropdb 2
+date
