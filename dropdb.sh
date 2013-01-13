@@ -1,2 +1,3 @@
 #!/bin/bash
-#Test for dropdb
+#Echo
+echo "Hello World"
