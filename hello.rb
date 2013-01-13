@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 puts "Hello World"
-puts `date`
+puts `date +"%Y%m%d %H:%M"`
